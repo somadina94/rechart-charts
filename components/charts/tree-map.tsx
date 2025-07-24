@@ -141,7 +141,7 @@ export default function TreemapCard() {
       <CardHeader>
         <CardTitle>Simple Tree map</CardTitle>
       </CardHeader>
-      <CardContent className="h-[300px]">
+      <CardContent className="h-[250px]">
         <ResponsiveContainer width="100%" height="100%">
           <Treemap
             width={400}

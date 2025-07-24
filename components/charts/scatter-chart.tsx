@@ -27,7 +27,7 @@ export default function ScatterChartCard() {
       <CardHeader>
         <CardTitle>Simple Scatter Chart</CardTitle>
       </CardHeader>
-      <CardContent className="h-[300px]">
+      <CardContent className="h-[250px]">
         <ResponsiveContainer width="100%" height="100%">
           <ScatterChart
             margin={{

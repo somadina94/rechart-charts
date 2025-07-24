@@ -25,7 +25,7 @@ export default function ComposedChartCard() {
       <CardHeader>
         <CardTitle>Composed Chart</CardTitle>
       </CardHeader>
-      <CardContent className="h-[300px]">
+      <CardContent className="h-[250px]">
         <ResponsiveContainer>
           <ComposedChart data={data}>
             <CartesianGrid stroke="#ccc" />

@@ -85,7 +85,7 @@ export default function PieChartCard() {
       <CardHeader>
         <CardTitle>Pie Chart With Customized Label</CardTitle>
       </CardHeader>
-      <CardContent className="h-[300px]">
+      <CardContent className="h-[250px]">
         <ResponsiveContainer width="100%" height="100%">
           <PieChart width={400} height={400}>
             <Legend />

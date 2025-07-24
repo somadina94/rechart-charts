@@ -60,7 +60,7 @@ export default function RadialBarChartCard() {
       <CardHeader>
         <CardTitle>Simple Radial Bar Chart</CardTitle>
       </CardHeader>
-      <CardContent className="h-[300px]">
+      <CardContent className="h-[250px]">
         <ResponsiveContainer width="100%" height="100%">
           <RadialBarChart
             cx="50%"

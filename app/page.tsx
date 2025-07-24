@@ -11,7 +11,7 @@ import { LightDarkToggle } from "@/components/ui/light-dark-toggle";
 
 export default function Home() {
   return (
-    <div className="p-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+    <div className="p-2 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <MyBarChart />
       <LineChartCard />
       <AreaChartCard />
