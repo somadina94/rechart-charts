@@ -19,7 +19,7 @@ export default function LineChartCard() {
       <CardHeader>
         <CardTitle>Simple Line Chart</CardTitle>
       </CardHeader>
-      <CardContent className="w-full h-full">
+      <CardContent className="h-[250px]">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart
             data={data}
